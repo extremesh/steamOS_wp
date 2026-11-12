@@ -2,7 +2,7 @@
 
 Almost all my devices run SteamOS or one of its variants, including my Steam Deck. The first thing I change is the Desktop Mode wallpaper, so I made a few that reflect the OS, the device, and gaming.
 
-The wallpapers were created with generative AI. I may add more later.
+The Wallpapers are made with GenAI, and if i am bored I might create more. Contact me if you have themes or ideas to create.
 
 ## Preview
 
@@ -12,9 +12,7 @@ The wallpapers were created with generative AI. I may add more later.
 
 ## Download
 
-**⬇ [Download all 3 wallpapers in 4K (ZIP)](https://github.com/extremesh/steamOS_wp/releases)**
-
-The images in this repo are previews only. The full 4K versions are in the [Releases](https://github.com/extremesh/steamOS_wp/releases) section.
+The images in this repo are previews only. The full 4K versions are in the ⬇ [Releases](https://github.com/extremesh/steamOS_wp/releases) section.
 
 ## Links
 

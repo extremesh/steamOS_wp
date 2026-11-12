@@ -12,7 +12,7 @@ The wallpapers were created with generative AI. I may add more later.
 
 ## Download
 
-**[⬇ Download all 3 wallpapers in 4K (ZIP)](https://github.com/extremesh/steamOS_wp/releases/download/Main/steamOS_wp_extremesh_01to03_4K.zip)**
+**⬇ [Download all 3 wallpapers in 4K (ZIP)](https://github.com/extremesh/steamOS_wp/releases)**
 
 The images in this repo are previews only. The full 4K versions are in the [Releases](https://github.com/extremesh/steamOS_wp/releases) section.
 

@@ -17,8 +17,8 @@ The images in this repo are previews only. The full 4K versions are in the ⬇ [
 ## Links
 
 - Blog post: [Free Wallpapers for SteamOS & SteamDeck in 4K](https://meshra.net/free-wallpapers-for-steamos-steamdeck-in-4k/)
-- Want a wallpaper idea or a specific game theme? Tell me on [Discord](https://meshra.net/contact)
+- Want a wallpaper idea or a specific game theme? Tell me on [Discord](https://ramesh.my/discord)
 
 ---
 
-Made & maintained by [eXtreMesh](https://ramesh.my)
+Maintained by [eXtreMesh](https://ramesh.my)
